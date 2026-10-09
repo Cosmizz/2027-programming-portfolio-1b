@@ -1,6 +1,6 @@
 # # OOP Calculator for Programming 1
 
-![Calculator]()
+![Calculator](https://github.com/Cosmizz/2027-programming-portfolio-1b/blob/main/images/Calc01.png?raw=true)
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
