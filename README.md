@@ -3,39 +3,31 @@
 ![Calculator](https://github.com/Cosmizz/2027-programming-portfolio-1b/blob/main/images/Calc01.png?raw=true)
 [Link to source code](https://github.com/Cosmizz/2027-programming-portfolio-1b/tree/main/src/Calculator)
 ## Overview
-[Write 2–3 sentences explaining what you are building
-and what a user can do with it.]
+this is my calculator, it should be able to do anything thats on that specific calculator.
 
 ## Current Status
-Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+finished.
+-let me know about any bugs or things that don't work.
 
 Still in progress:
-- [A requirement you are finishing]
+- nothing currently
 
 ## How to Run
 Built with Processing.
-Processing version: [Your version]
-
-[After the project files are uploaded, identify the
-project folder and main .pde file to open and run.]
+Processing version: 4.0.1.
 
 ## Controls
 Mouse:
-[Explain how to use the buttons.]
+when you hover over the buttons they will change color which would let you know what button you're pressing.
 
 Keyboard:
-[List keys that currently work and what they do.
-Identify planned controls as not yet implemented.]
+the keys are what the buttons are.
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+link is up top
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+ive tested it and it works, if it doesnt work please let me know
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+maybe i would add more processing buttons
